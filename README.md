@@ -13,8 +13,14 @@ sortare, căutare, pagini de produs, galerie cu lightbox, favorite și coș func
 
 ## Demo public
 
-Linkul live este publicat prin GitHub Pages — vezi secțiunea *Environments → github-pages*
-a acestui repository sau linkul din descrierea repo-ului.
+**https://leventejere-dev.github.io/freund-cmportal-prototype/**
+
+Rute utile:
+
+- Categoria FREUND — `/scule-freund`
+- Exemplu de produs — `/scule-freund/masina-de-cusut-si-taiat-seaming-pro-93000000`
+- Coșul — `/cos`
+- Favorite — `/favorite`
 
 ## Rulare locală
 
