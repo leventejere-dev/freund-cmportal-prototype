@@ -3,6 +3,7 @@ import PortalHeader from './components/PortalHeader'
 import PortalFooter from './components/PortalFooter'
 import Toast from './components/Toast'
 import HomePage from './pages/HomePage'
+import BrowseCategoriesPage from './pages/BrowseCategoriesPage'
 import CategoryPage from './pages/CategoryPage'
 import ProductPage from './pages/ProductPage'
 import CartPage from './pages/CartPage'
@@ -43,6 +44,7 @@ export default function App() {
       <main>
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/articole" element={<BrowseCategoriesPage />} />
           <Route path="/scule-freund" element={<CategoryPage />} />
           <Route path="/scule-freund/:slug" element={<ProductPage />} />
           <Route path="/cos" element={<CartPage />} />
