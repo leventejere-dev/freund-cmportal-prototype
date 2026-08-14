@@ -39,6 +39,7 @@ export default function PortalHeader() {
 
           <Link to="/" className="cm-logo" aria-label="COLOR METAL — Portal Parteneri">
             <img src={logo} alt="COLOR METAL" width={218} height={20} />
+            <span className="cm-portal-label">PORTAL PARTENERI</span>
           </Link>
 
           <nav className="cm-nav">
@@ -50,8 +51,10 @@ export default function PortalHeader() {
               <LayoutGrid size={17} /> Pagina Principala
             </NavLink>
             <NavLink
-              to="/scule-freund"
-              className={({ isActive }) => `cm-navlink${isActive ? ' is-active' : ''}`}
+              to="/articole"
+              className={({ isActive }) =>
+                `cm-navlink${isActive || location.pathname.startsWith('/scule-freund') ? ' is-active' : ''}`
+              }
             >
               <Shapes size={17} /> Cauta Articole
             </NavLink>
@@ -102,7 +105,7 @@ export default function PortalHeader() {
             <Link to="/">
               <LayoutGrid size={20} /> Pagina Principala
             </Link>
-            <Link to="/scule-freund">
+            <Link to="/articole">
               <Shapes size={20} /> Articole
             </Link>
             <Link to="/favorite">
