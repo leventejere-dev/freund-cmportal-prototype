@@ -64,7 +64,8 @@ export default function ProductPage() {
         <Breadcrumbs
           items={[
             { label: 'Pagina principală', to: '/' },
-            { label: 'Accesorii arhitecturale', to: '/scule-freund' },
+            { label: 'Articole', to: '/articole' },
+            { label: 'Accesorii arhitecturale', to: '/articole' },
             { label: 'Scule FREUND', to: '/scule-freund' },
             { label: product.name },
           ]}

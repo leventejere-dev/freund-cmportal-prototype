@@ -122,7 +122,8 @@ export default function CategoryPage() {
         <Breadcrumbs
           items={[
             { label: 'Pagina principală', to: '/' },
-            { label: 'Accesorii arhitecturale', to: '/scule-freund' },
+            { label: 'Articole', to: '/articole' },
+            { label: 'Accesorii arhitecturale', to: '/articole' },
             { label: 'Scule FREUND' },
           ]}
         />

@@ -1,18 +1,65 @@
 import { Link } from 'react-router-dom'
 import {
   AlertTriangle,
+  BookOpen,
   Building2,
   Calculator,
   DollarSign,
   Heart,
   LayoutGrid,
-  Package,
+  type LucideIcon,
+  Map,
+  Phone,
+  Shapes,
   Star,
+  Store,
   Truck,
   Users,
 } from 'lucide-react'
 import FreundMark from '../components/FreundMark'
 import { products } from '../lib/catalog'
+
+interface Tile {
+  icon: LucideIcon
+  label: string
+  to?: string
+}
+
+const SECTIONS: Array<{ title: string; tiles: Tile[] }> = [
+  {
+    title: 'ACTIVITATE',
+    tiles: [
+      { icon: Shapes, label: 'CAUTA ARTICOLE', to: '/articole' },
+      { icon: Heart, label: 'ARTICOLE FAVORITE', to: '/favorite' },
+      { icon: Store, label: 'OFERTE' },
+    ],
+  },
+  {
+    title: 'DATE FINANCIARE',
+    tiles: [
+      { icon: Star, label: 'BALANTA' },
+      { icon: DollarSign, label: 'FACTURI' },
+      { icon: AlertTriangle, label: 'ALERTE' },
+    ],
+  },
+  {
+    title: 'CONTUL MEU',
+    tiles: [
+      { icon: Building2, label: 'DATE COMPANIE' },
+      { icon: Users, label: 'UTILIZATORI' },
+      { icon: Truck, label: 'ADRESE DE LIVRARE' },
+    ],
+  },
+  {
+    title: 'INFO UTILE',
+    tiles: [
+      { icon: BookOpen, label: 'TEHNIPEDIA' },
+      { icon: Phone, label: 'SERVICE CENTER' },
+      { icon: Calculator, label: 'CALCULATOR GREUTATE' },
+      { icon: Map, label: 'RUTE DISTRIBUTIE' },
+    ],
+  },
+]
 
 export default function HomePage() {
   return (
@@ -22,17 +69,14 @@ export default function HomePage() {
           <LayoutGrid size={26} /> Pagina Principala
         </h1>
 
-        <Link
-          to="/scule-freund"
-          className="brand-head"
-          style={{ textDecoration: 'none', marginBottom: 8 }}
-        >
+        <Link to="/articole" className="brand-head" style={{ textDecoration: 'none' }}>
           <FreundMark width={124} />
           <div className="txt">
             <h1 style={{ fontSize: 18 }}>Scule profesionale FREUND — noul magazin</h1>
             <p>
               {products.length} articole cu fotografii, prețuri, stoc, filtre și coș de
-              cumpărături. Intră în secțiune →
+              cumpărături. Drumul din portal: <b>Cauta Articole → Accesorii arhitecturale →
+              Scule FREUND</b>.
             </p>
           </div>
           <div className="count">
@@ -41,91 +85,46 @@ export default function HomePage() {
           </div>
         </Link>
 
-        <div className="section-label">Activitate</div>
-        <div className="home-grid">
-          <Link to="/scule-freund" className="home-tile">
-            <Package size={22} />
-            <div>
-              <h3>Cauta Articole</h3>
-              <p>Catalogul de produse Color Metal, inclusiv sculele FREUND.</p>
-            </div>
-          </Link>
-          <Link to="/favorite" className="home-tile">
-            <Heart size={22} />
-            <div>
-              <h3>Articole favorite</h3>
-              <p>Produsele salvate de utilizatorii companiei tale.</p>
-            </div>
-          </Link>
-          <span className="home-tile muted">
-            <Star size={22} />
-            <div>
-              <h3>Oferte</h3>
-              <p>Nu face parte din acest prototip.</p>
-            </div>
-          </span>
-        </div>
+        <p className="proto-note" style={{ marginTop: 18 }}>
+          Aceasta este pagina principală a portalului, reprodusă ca punct de plecare. În
+          prototip sunt active doar <b>Cauta Articole</b> și <b>Articole favorite</b>; restul
+          secțiunilor sunt afișate ca în portal, dar inactive.
+        </p>
 
-        <div className="section-label">Date financiare</div>
-        <div className="home-grid">
-          <span className="home-tile muted">
-            <Star size={22} />
-            <div>
-              <h3>Balanta</h3>
-              <p>Nu face parte din acest prototip.</p>
+        {SECTIONS.map((section) => (
+          <div key={section.title}>
+            <div className="section-label">{section.title}</div>
+            <div className="home-grid">
+              {section.tiles.map(({ icon: Icon, label, to }) =>
+                to ? (
+                  <Link key={label} to={to} className="home-tile">
+                    <Icon size={22} />
+                    <div>
+                      <h3>{label}</h3>
+                      <p>
+                        {label === 'CAUTA ARTICOLE'
+                          ? 'Catalogul de produse Color Metal, inclusiv sculele FREUND.'
+                          : 'Produsele salvate de utilizatorii companiei tale.'}
+                      </p>
+                    </div>
+                  </Link>
+                ) : (
+                  <span
+                    key={label}
+                    className="home-tile muted"
+                    title="Nu face parte din acest prototip"
+                  >
+                    <Icon size={22} />
+                    <div>
+                      <h3>{label}</h3>
+                      <p>Nu face parte din acest prototip.</p>
+                    </div>
+                  </span>
+                ),
+              )}
             </div>
-          </span>
-          <span className="home-tile muted">
-            <DollarSign size={22} />
-            <div>
-              <h3>Facturi</h3>
-              <p>Nu face parte din acest prototip.</p>
-            </div>
-          </span>
-          <span className="home-tile muted">
-            <AlertTriangle size={22} />
-            <div>
-              <h3>Alerte</h3>
-              <p>Nu face parte din acest prototip.</p>
-            </div>
-          </span>
-        </div>
-
-        <div className="section-label">Contul meu</div>
-        <div className="home-grid">
-          <span className="home-tile muted">
-            <Building2 size={22} />
-            <div>
-              <h3>Date companie</h3>
-              <p>Nu face parte din acest prototip.</p>
-            </div>
-          </span>
-          <span className="home-tile muted">
-            <Users size={22} />
-            <div>
-              <h3>Utilizatori</h3>
-              <p>Nu face parte din acest prototip.</p>
-            </div>
-          </span>
-          <span className="home-tile muted">
-            <Truck size={22} />
-            <div>
-              <h3>Adrese de livrare</h3>
-              <p>Nu face parte din acest prototip.</p>
-            </div>
-          </span>
-        </div>
-
-        <div className="section-label">Info utile</div>
-        <div className="home-grid">
-          <span className="home-tile muted">
-            <Calculator size={22} />
-            <div>
-              <h3>Calculator greutate</h3>
-              <p>Nu face parte din acest prototip.</p>
-            </div>
-          </span>
-        </div>
+          </div>
+        ))}
       </div>
     </div>
   )
