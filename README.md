@@ -15,8 +15,13 @@ sortare, căutare, pagini de produs, galerie cu lightbox, favorite și coș func
 
 **https://leventejere-dev.github.io/freund-cmportal-prototype/**
 
+Drumul din portal, reprodus în prototip:
+`Pagina Principala → Cauta Articole → ACCESORII ARHITECTURALE → SCULE FREUND`
+
 Rute utile:
 
+- Pagina principală — `/`
+- Lista de categorii (doar FREUND este activă) — `/articole`
 - Categoria FREUND — `/scule-freund`
 - Exemplu de produs — `/scule-freund/masina-de-cusut-si-taiat-seaming-pro-93000000`
 - Coșul — `/cos`
@@ -36,7 +41,7 @@ npm run build      # generează dist/
 npm run preview    # servește dist/ pe http://localhost:4173
 ```
 
-Test funcțional end-to-end (Playwright, 37 verificări):
+Test funcțional end-to-end (Playwright, 43 verificări):
 
 ```bash
 npx playwright install chromium   # o singură dată
@@ -65,6 +70,7 @@ Nu există backend. Toate datele sunt statice și livrate odată cu build-ul.
 | Rută | Pagină |
 |---|---|
 | `/` | Pagina principală (reproducere a dashboard-ului CMPORTAL) |
+| `/articole` | Lista de categorii din portal — doar *Scule FREUND* este activă |
 | `/scule-freund` | Categoria FREUND — grilă, filtre, căutare, sortare |
 | `/scule-freund/:slug` | Pagina de produs (ex. `/scule-freund/foarfeca-decupaj-rotund-in-varf-00371000`) |
 | `/cos` | Coșul de cumpărături |
@@ -86,7 +92,8 @@ src/
                           ProductCard, ProductGrid, ProductGallery, PriceDisplay,
                           StockBadge, QuantitySelector, AddToCartButton, FavoriteButton,
                           ProductSpecifications, RelatedProducts, Toast, Footer
-  pages/                  HomePage, CategoryPage, ProductPage, CartPage, FavoritesPage
+  pages/                  HomePage, BrowseCategoriesPage, CategoryPage, ProductPage,
+                          CartPage, FavoritesPage
   lib/
     config.ts             VAT_RATE și alte constante de business
     format.ts             formatare monedă RO, calcul net din brut, slug, normalizare
@@ -94,6 +101,7 @@ src/
     store.tsx             coș + favorite (Context + localStorage)
   data/
     products.json         49 articole
+    categories.ts         arborele de categorii din portal (20 categorii, 6 grupe)
     types.ts              tipurile TypeScript
 docs/
   UX-AUDIT.md             auditul UX al implementării actuale
@@ -184,7 +192,10 @@ Următoarele sunt **date demonstrative**, marcate ca atare și în interfață (
   contact din footer — preluate ca exemplu din portal pentru fidelitate vizuală.
 - **Butonul „Trimite comanda"** din coș nu trimite nimic.
 - Meniurile *Oferte, Balanta, Facturi, Alerte, Date companie, Utilizatori, Adrese de
-  livrare, Calculator greutate* sunt afișate ca inactive — nu fac parte din acest prototip.
+  livrare, Tehnipedia, Service center, Calculator greutate, Rute distributie* sunt afișate
+  ca inactive — nu fac parte din acest prototip.
+- În `/articole` toate cele 20 de categorii ale portalului sunt afișate, dar numai
+  *Scule FREUND* este activă; celelalte sunt gri, fără imagini (nu am acces la ele).
 
 **Prețurile NU sunt date demonstrative** — provin din lista de prețuri furnizată.
 

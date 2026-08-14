@@ -17,8 +17,21 @@ const ok = (n, c) => {
 }
 const num = (s) => parseFloat(s.replace(/\./g, '').replace(',', '.'))
 
+// navigation path: home -> Cauta Articole -> Scule FREUND
+await p.goto(B + '/', { waitUntil: 'networkidle' })
+await p.locator('.cm-navlink', { hasText: 'Cauta Articole' }).click()
+await p.waitForLoadState('networkidle')
+ok('Cauta Articole -> /articole', p.url().endsWith('/articole'))
+ok('all 20 category tiles shown', (await p.locator('.cat-tile').count()) === 20)
+ok('only FREUND tile is clickable', (await p.locator('a.cat-tile').count()) === 1)
+ok('disabled tiles are not links', (await p.locator('.cat-tile.is-disabled').count()) === 19)
+await p.locator('a.cat-tile').click()
+await p.waitForLoadState('networkidle')
+ok('FREUND tile leads to the shop', p.url().includes('/scule-freund'))
+
 await p.goto(B + '/scule-freund', { waitUntil: 'networkidle' })
 ok('category page renders 49 cards', (await p.locator('.card').count()) === 49)
+ok('breadcrumb shows the path', (await p.locator('.breadcrumbs').innerText()).includes('Articole'))
 
 await p.fill('input[type=search]', '01090022')
 await p.waitForTimeout(400)
