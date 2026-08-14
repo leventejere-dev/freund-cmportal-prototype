@@ -1,0 +1,2773 @@
+{
+ "categories": [
+  {
+   "id": "foarfece",
+   "name": "Foarfece pentru tablă"
+  },
+  {
+   "id": "clesti-faltuit",
+   "name": "Clești de fălțuit și sertizare"
+  },
+  {
+   "id": "clesti-blocare",
+   "name": "Clești de blocare și prindere"
+  },
+  {
+   "id": "ciocane",
+   "name": "Ciocane"
+  },
+  {
+   "id": "utilaje-faltuit",
+   "name": "Utilaje de fălțuit"
+  },
+  {
+   "id": "indoitoare",
+   "name": "Îndoitoare"
+  },
+  {
+   "id": "trasare",
+   "name": "Trasare și accesorii"
+  }
+ ],
+ "products": [
+  {
+   "id": "foarfeca-decupaj-rotund-in-varf-00371000",
+   "sku": "00371000",
+   "name": "Foarfecă decupaj rotund în vârf",
+   "familyName": "Foarfeca decupaj rotund în vârf",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfeca-decupaj-rotund-in-varf",
+   "catalogPage": 3,
+   "catalogNumber": 1,
+   "version": "Foarfeca decupaj rotund în vârf 35 pentru crestături manuale de 35 x 3 mm",
+   "image": "products/freund/03.webp",
+   "imageLarge": "products/freund/03-lg.webp",
+   "priceGross": 581,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 8,
+   "tagline": "Pentru că un pas este mai rapid decât trei",
+   "description": "Dispozitivul manual de crestare realizează atât tăieturile de profil, cât și perforarea găurilor dintr-o singură mișcare. Astfel, aveți nevoie doar de acest instrument. De exemplu, pentru colțurile tăvii pentru conexiunea peretelui cu îmbinare simplă sau dublă. Apropo, puteți continua tăierea la nesfârșit.",
+   "applications": [
+    {
+     "label": "Simplificator inteligent",
+     "text": "Realizează incizii rotunjite în table cu o lățime de 3 milimetri!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Economie de timp",
+     "text": "Capătul rotunjit al tăieturii elimină necesitatea perforării suplimentare și previne ruperea tablei."
+    },
+    {
+     "label": "Flexibil",
+     "text": "Crestarea lungă de 35 mm poate fi continuată la nesfârșit."
+    },
+    {
+     "label": "Durabil",
+     "text": "Pârghia de blocare protejează lama de tăiere."
+    },
+    {
+     "label": "Convenabil",
+     "text": "Nu este necesară schimbarea uneltei."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Mânerele izolate prin imersie se potrivesc perfect în mână."
+    },
+    {
+     "label": "Efort redus",
+     "text": "Mânerele lungi reduc forța necesară, iar arcul de revenire robust facilitează munca."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "300x650mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "530g"
+    }
+   ],
+   "weightG": 530,
+   "sizeMm": 300,
+   "imageSheet": "products/freund/03-fisa.webp"
+  },
+  {
+   "id": "clesti-pentru-formare-carlige-jgheab-80-cm-01000800",
+   "sku": "01000800",
+   "name": "Clești pentru formare cârlige jgheab, 80 cm",
+   "familyName": "Clești pentru formare carlige jgheab, 80 cm",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-pentru-formare-carlige-jgheab-80-cm",
+   "catalogPage": 4,
+   "catalogNumber": 2,
+   "version": "Dispozitiv de îndoit cârlige pentru jgheaburi",
+   "image": "products/freund/04.webp",
+   "imageLarge": "products/freund/04-lg.webp",
+   "priceGross": 649,
+   "stockStatus": "stoc-limitat",
+   "stockQuantity": 3,
+   "tagline": "Pentru că uneori trebuie să răsucești",
+   "description": "Dispozitivul de îndoit cârlige pentru jgheaburi permite îndoirea acestora până la o grosime de 8 mm fără probleme. Datorită șurubului filetat integrat, unghiul este reglabil infinit. Capul nou proiectat asigură îndoiri precise – exact cum aveți nevoie.",
+   "applications": [
+    {
+     "label": "Doamna de fier",
+     "text": "Îndoaie cârligele pentru jgheaburi cu o gamă de prindere de până la 8 milimetri!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Flexibil",
+     "text": "Disponibil în două versiuni, 600 și 800 mm"
+    },
+    {
+     "label": "Precis",
+     "text": "Capul cleștelui este fabricat cu precizie pantry îndoiri exacte"
+    },
+    {
+     "label": "Exact",
+     "text": "Unghiul de îndoire este reglabil infinit prin șurubul cu filet fin"
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Mânerul din PVC striat se potrivește perfect în mână"
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "800x120mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "3500g"
+    }
+   ],
+   "weightG": 3500,
+   "sizeMm": 800,
+   "imageSheet": "products/freund/04-fisa.webp"
+  },
+  {
+   "id": "clesti-pentru-deschiderea-falt-dublu-01070250",
+   "sku": "01070250",
+   "name": "Clești pentru deschiderea falț dublu",
+   "familyName": "Clești pentru deschiderea falț dublu",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-pentru-deschiderea-falt-dublu",
+   "catalogPage": 5,
+   "catalogNumber": 3,
+   "version": "Clești pentru deschiderea falț dublu",
+   "image": "products/freund/05.webp",
+   "imageLarge": "products/freund/05-lg.webp",
+   "priceGross": 228,
+   "stockStatus": "indisponibil",
+   "applications": [
+    {
+     "label": "Colegul inteligent",
+     "text": "Pentru deschiderea îmbinărilor verticale!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Curat",
+     "text": "Deschidere delicată a îmbinărilor."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Articulația suprapusă se mișcă extrem de ușor."
+    },
+    {
+     "label": "Manevrabil",
+     "text": "Mânerele izolate prin imersie se potrivesc perfect în mână."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "30mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "450g"
+    }
+   ],
+   "weightG": 450,
+   "sizeMm": 30,
+   "imageSheet": "products/freund/05-fisa.webp"
+  },
+  {
+   "id": "clesti-de-sertizare-indoiti-la-45-imbinare-suprapusa-22-mm-01090022",
+   "sku": "01090022",
+   "name": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă, 22 mm",
+   "familyName": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă, 22 mm",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-de-sertizare-indoiti-la-45-imbinare-suprapusa-22-mm",
+   "catalogPage": 6,
+   "catalogNumber": 4,
+   "version": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă",
+   "image": "products/freund/06.webp",
+   "imageLarge": "products/freund/06-lg.webp",
+   "priceGross": 197,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 39,
+   "tagline": "Pentru că mini poate fi mare",
+   "description": "Aveți nevoie de lucrări detaliate în tablă pentru proiectul dvs.? Atunci cleștele de îmbinare mini, curbat la 45°, cu articulație suprapusă, este asistentul ideal. Nu este pentru lucrări brute, ci un instrument mic și practic pentru a finaliza detaliile fine. Forma curbată permite îndoirea și îmbinarea tablei în locuri inaccesibile altor unelte.",
+   "applications": [
+    {
+     "label": "Asistent precis",
+     "text": "Îndoaie și îmbină tabla!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Convenabil",
+     "text": "Clește îndoit la 45°."
+    },
+    {
+     "label": "Fin",
+     "text": "Îndoaie și îmbină tabla în locuri inaccesibile altor unelte."
+    },
+    {
+     "label": "Mic și practic",
+     "text": "Se potrivește perfect în buzunarele hainelor de lucru."
+    },
+    {
+     "label": "Precis",
+     "text": "Îndoire exactă datorită fălcilor finisate cu precizie."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Mânerele verzi izolate prin imersie se potrivesc confortabil în mână."
+    },
+    {
+     "label": "Exact",
+     "text": "Fălcile cleștelui se închid perfect paralel."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "22mm"
+    },
+    {
+     "label": "Adâncime de inserție",
+     "value": "28mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "220g"
+    }
+   ],
+   "weightG": 220,
+   "sizeMm": 22,
+   "imageSheet": "products/freund/06-fisa.webp"
+  },
+  {
+   "id": "clesti-de-sertizare-indoiti-la-45-imbinare-suprapusa-60-mm-01090060",
+   "sku": "01090060",
+   "name": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă, 60 mm",
+   "familyName": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-de-sertizare-indoiti-la-45-imbinare-suprapusa",
+   "catalogPage": 7,
+   "catalogNumber": 5,
+   "version": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă",
+   "image": "products/freund/07.webp",
+   "imageLarge": "products/freund/07-lg.webp",
+   "priceGross": 290,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 33,
+   "tagline": "Pentru că fiecare trebuie să arate un contur",
+   "description": "Acești clești de îmbinare curbați la 45° cu articulație suprapusă sunt perfecți pentru realizarea exactă a marginilor. Datorită formei curbate, tabla se îndoaie și se contureaza fără efort. Un detaliu practic: fălcile cleștilor se închid perfect paralel, iar marginile capului sunt foarte drepte, dar nu ascuțite.",
+   "applications": [
+    {
+     "label": "Îmbinător rapid",
+     "text": "Pentru îndoirea și conturarea tablei!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Practic",
+     "text": "Curbat la 45°."
+    },
+    {
+     "label": "Blând cu materialul",
+     "text": "Tabla nu este deteriorată în timpul îndoirii."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Mânerele verzi izolate prin imersie se potrivesc bine în mână."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Articulația suprapusă se mișcă extrem de ușor."
+    },
+    {
+     "label": "Durabil",
+     "text": "Oțel forjat de înaltă calitate."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "60mm"
+    },
+    {
+     "label": "Adâncime de inserție",
+     "value": "48mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "650g"
+    }
+   ],
+   "weightG": 650,
+   "sizeMm": 60,
+   "imageSheet": "products/freund/07-fisa.webp"
+  },
+  {
+   "id": "clesti-de-sertizare-indoiti-la-45-imbinare-suprapusa-40-mm-01090040",
+   "sku": "01090040",
+   "name": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă, 40 mm",
+   "familyName": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-de-sertizare-indoiti-la-45-imbinare-suprapusa",
+   "catalogPage": 7,
+   "catalogNumber": 5,
+   "version": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă",
+   "image": "products/freund/07.webp",
+   "imageLarge": "products/freund/07-lg.webp",
+   "priceGross": 294,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 24,
+   "tagline": "Pentru că fiecare trebuie să arate un contur",
+   "description": "Acești clești de îmbinare curbați la 45° cu articulație suprapusă sunt perfecți pentru realizarea exactă a marginilor. Datorită formei curbate, tabla se îndoaie și se contureaza fără efort. Un detaliu practic: fălcile cleștilor se închid perfect paralel, iar marginile capului sunt foarte drepte, dar nu ascuțite.",
+   "applications": [
+    {
+     "label": "Îmbinător rapid",
+     "text": "Pentru îndoirea și conturarea tablei!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Practic",
+     "text": "Curbat la 45°."
+    },
+    {
+     "label": "Blând cu materialul",
+     "text": "Tabla nu este deteriorată în timpul îndoirii."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Mânerele verzi izolate prin imersie se potrivesc bine în mână."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Articulația suprapusă se mișcă extrem de ușor."
+    },
+    {
+     "label": "Durabil",
+     "text": "Oțel forjat de înaltă calitate."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "40mm"
+    },
+    {
+     "label": "Adâncime de inserție",
+     "value": "48mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "600g"
+    }
+   ],
+   "weightG": 600,
+   "sizeMm": 40,
+   "imageSheet": "products/freund/07-fisa.webp"
+  },
+  {
+   "id": "clesti-de-sertizare-indoiti-la-45-imbinare-suprapusa-80-mm-01090080",
+   "sku": "01090080",
+   "name": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă, 80 mm",
+   "familyName": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-de-sertizare-indoiti-la-45-imbinare-suprapusa",
+   "catalogPage": 7,
+   "catalogNumber": 5,
+   "version": "Clești de sertizare, îndoiți la 45°, îmbinare suprapusă",
+   "image": "products/freund/07.webp",
+   "imageLarge": "products/freund/07-lg.webp",
+   "priceGross": 368,
+   "stockStatus": "indisponibil",
+   "tagline": "Pentru că fiecare trebuie să arate un contur",
+   "description": "Acești clești de îmbinare curbați la 45° cu articulație suprapusă sunt perfecți pentru realizarea exactă a marginilor. Datorită formei curbate, tabla se îndoaie și se contureaza fără efort. Un detaliu practic: fălcile cleștilor se închid perfect paralel, iar marginile capului sunt foarte drepte, dar nu ascuțite.",
+   "applications": [
+    {
+     "label": "Îmbinător rapid",
+     "text": "Pentru îndoirea și conturarea tablei!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Practic",
+     "text": "Curbat la 45°."
+    },
+    {
+     "label": "Blând cu materialul",
+     "text": "Tabla nu este deteriorată în timpul îndoirii."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Mânerele verzi izolate prin imersie se potrivesc bine în mână."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Articulația suprapusă se mișcă extrem de ușor."
+    },
+    {
+     "label": "Durabil",
+     "text": "Oțel forjat de înaltă calitate."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "80mm"
+    },
+    {
+     "label": "Adâncime de inserție",
+     "value": "48mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "720g"
+    }
+   ],
+   "weightG": 720,
+   "sizeMm": 80,
+   "imageSheet": "products/freund/07-fisa.webp"
+  },
+  {
+   "id": "clesti-de-sertizare-indoiti-la-90-imbinare-suprapusa-60-mm-01092060",
+   "sku": "01092060",
+   "name": "Clești de sertizare, îndoiți la 90°, îmbinare suprapusă, 60 mm",
+   "familyName": "Clești de sertizare, îndoiți la 90°, îmbinare suprapusă, 60 mm",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-de-sertizare-indoiti-la-90-imbinare-suprapusa-60-mm",
+   "catalogPage": 8,
+   "catalogNumber": 6,
+   "version": "Clești de sertizare, îndoiți la 90°, îmbinare suprapusă, 60 mm",
+   "image": "products/freund/08.webp",
+   "imageLarge": "products/freund/08-lg.webp",
+   "priceGross": 348,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 40,
+   "applications": [
+    {
+     "label": "Îmbinător practic",
+     "text": "Pentru îndoirea și conturarea tablei!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Convenabil",
+     "text": "Clește curbat la 90°."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Articulația suprapusă se mișcă foarte ușor."
+    },
+    {
+     "label": "Durabil",
+     "text": "Oțel forjat de înaltă calitate."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "60mm"
+    },
+    {
+     "label": "Adâncime de inserție",
+     "value": "58mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "750g"
+    }
+   ],
+   "weightG": 750,
+   "sizeMm": 60,
+   "imageSheet": "products/freund/08-fisa.webp"
+  },
+  {
+   "id": "clesti-de-sertizare-drepti-imbinare-suprapusa-80-mm-01100081",
+   "sku": "01100081",
+   "name": "Clești de sertizare, drepți, îmbinare suprapusă, 80 mm",
+   "familyName": "Clești de sertizare, drepți, îmbinare suprapusă",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-de-sertizare-drepti-imbinare-suprapusa",
+   "catalogPage": 9,
+   "catalogNumber": 7,
+   "version": "Clești de sertizare, drepți, îmbinare suprapusă",
+   "image": "products/freund/09.webp",
+   "imageLarge": "products/freund/09-lg.webp",
+   "priceGross": 428,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 22,
+   "applications": [
+    {
+     "label": "Formator plat",
+     "text": "Pentru îndoirea îmbinărilor înalte și a pliurilor strânse!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Practic",
+     "text": "Adâncime mare de inserție de 80 mm Blând cu materialul: Tabla nu este deteriorată de fălcile cleștelui în timpul îndoirii."
+    },
+    {
+     "label": "Ușor de utilizat",
+     "text": "Mânerele verzi, izolate prin imersie, se potrivesc perfect în mână."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Articulația se mișcă foarte ușor și are o durată lungă de viață."
+    },
+    {
+     "label": "Precis",
+     "text": "Îndoiri fine datorită fălcilor finisate cu precizie."
+    },
+    {
+     "label": "Durabil",
+     "text": "Oțel forjat de înaltă calitate."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "80mm"
+    },
+    {
+     "label": "Adâncime de inserție",
+     "value": "80mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "820g"
+    }
+   ],
+   "weightG": 820,
+   "sizeMm": 80,
+   "imageSheet": "products/freund/09-fisa.webp"
+  },
+  {
+   "id": "clesti-pentru-realizat-pliuri-01130000",
+   "sku": "01130000",
+   "name": "Clești pentru realizat pliuri",
+   "familyName": "Clești pentru realizat pliuri",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-pentru-realizat-pliuri",
+   "catalogPage": 10,
+   "catalogNumber": 8,
+   "version": "Clești pentru realizat pliuri, adâncime fantă de 140 mm",
+   "image": "products/freund/10.webp",
+   "imageLarge": "products/freund/10-lg.webp",
+   "priceGross": 370,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 42,
+   "tagline": "Pentru că ne place să mergem în profunzime",
+   "description": "Și cleștele de pliere strânsă stăpânește perfect acest lucru. Are o adâncime mare de inserție și poate fi utilizat universal pentru crearea îmbinărilor strânse.",
+   "applications": [
+    {
+     "label": "Prieten robust",
+     "text": "Pentru realizarea îmbinărilor strânse!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Precis",
+     "text": "Pliere exactă a colțurilor datorită muchiilor interioare finisate cu precizie."
+    },
+    {
+     "label": "Practic",
+     "text": "Adâncime a fantei de 140 mm."
+    },
+    {
+     "label": "Durabil",
+     "text": "Fabricat din oțel de scule de înaltă calitate și forjat dintr-o singură bucată."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "200x170mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "810g"
+    }
+   ],
+   "weightG": 810,
+   "sizeMm": 200,
+   "imageSheet": "products/freund/10-fisa.webp"
+  },
+  {
+   "id": "placa-de-trasare-forma-curbata-01134000",
+   "sku": "01134000",
+   "name": "Placă de trasare, formă curbată",
+   "familyName": "Placă de trasare, formă curbată",
+   "brand": "FREUND",
+   "category": "trasare",
+   "family": "placa-de-trasare-forma-curbata",
+   "catalogPage": 11,
+   "catalogNumber": 9,
+   "version": "Placă de trasare, formă curbată, scală în mm",
+   "image": "products/freund/11.webp",
+   "imageLarge": "products/freund/11-lg.webp",
+   "priceGross": 66,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 49,
+   "tagline": "Pentru că, pur și simplu, este super util",
+   "description": "Lucrul rapid și precis – asta este esențial. Iar cu acest șablon, dimensiunile exacte devin o joacă de copii, și asta pe termen lung. Se potrivește perfect în mână și este potrivit pentru marcarea foilor de la 5 la 100 mm. În plus, dimensiunea 28/38 mm este ideală pentru marcarea cusăturilor în picioare.",
+   "applications": [
+    {
+     "label": "Asistent curbat",
+     "text": "Pentru trasarea foilor pentru marcare!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Precis",
+     "text": "Pentru marcarea foilor de la 5 mm la 100 mm."
+    },
+    {
+     "label": "Practic",
+     "text": "Formă curbată pentru crearea colțurilor pentru foi profilate."
+    },
+    {
+     "label": "Rapid",
+     "text": "Marcarea simplă a dimensiunilor date."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "130mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "75g"
+    }
+   ],
+   "weightG": 75,
+   "sizeMm": 130,
+   "imageSheet": "products/freund/11-fisa.webp"
+  },
+  {
+   "id": "clesti-pentru-cusaturi-drepti-imbinare-suprapusa-120-mm-01141120",
+   "sku": "01141120",
+   "name": "Clești pentru cusături, drepți, îmbinare suprapusă, 120 mm",
+   "familyName": "Clești pentru cusături, drepți, îmbinare suprapusă, 120 MM",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-pentru-cusaturi-drepti-imbinare-suprapusa-120-mm",
+   "catalogPage": 12,
+   "catalogNumber": 10,
+   "version": "Clești pentru cusături, drepți, îmbinare suprapusă",
+   "image": "products/freund/12.webp",
+   "imageLarge": "products/freund/12-lg.webp",
+   "priceGross": 642,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 8,
+   "tagline": "Pentru că totul trebuie să se potrivească perfect la final",
+   "description": "Și acest clește cu articulație „lap joint\" este exact ce trebuie. Un avantaj deosebit: fălcile cleștelui se închid perfect paralel, iar marginile capului cleștelui sunt foarte drepte – dar nu sunt ascuțite.",
+   "applications": [
+    {
+     "label": "Finisare versatilă",
+     "text": "Pentru îndoirea și fasonarea panourilor de tablă deja montate!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Durabil",
+     "text": "Oțel scule forjat de înaltă calitate."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Mânerele lungi ale cleștelui simplifică lucrul în poziție verticală."
+    },
+    {
+     "label": "Flexibil",
+     "text": "Lățime mare de lucru (120 mm - 200 mm) și adâncime de inserție (120 mm - 170 mm)."
+    },
+    {
+     "label": "Delicat cu materialul",
+     "text": "Tablă nu este deteriorată de fălcile cleștelui la îndoire."
+    },
+    {
+     "label": "Ușor de utilizat",
+     "text": "Capetele mânerelor sunt rotunjite pe ambele părți pentru îndoire ușoară."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "120mm"
+    },
+    {
+     "label": "Adâncime de inserție",
+     "value": "120mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "1900g"
+    }
+   ],
+   "weightG": 1900,
+   "sizeMm": 120,
+   "imageSheet": "products/freund/12-fisa.webp"
+  },
+  {
+   "id": "clesti-pentru-cusaturi-drepti-imbinare-suprapusa-180-mm-01141181",
+   "sku": "01141181",
+   "name": "Clești pentru cusături, drepți, îmbinare suprapusă, 180 mm",
+   "familyName": "Clești pentru cusături, drepți, îmbinare suprapusă, 180 MM",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-pentru-cusaturi-drepti-imbinare-suprapusa-180-mm",
+   "catalogPage": 13,
+   "catalogNumber": 11,
+   "version": "Clești pentru cusături, drepți, îmbinare suprapusă",
+   "image": "products/freund/13.webp",
+   "imageLarge": "products/freund/13-lg.webp",
+   "priceGross": 871,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 26,
+   "featured": true,
+   "applications": [
+    {
+     "label": "Formator de colțuri practic",
+     "text": "Pentru colțurile panourilor de tablă deja instalate!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Suplimentar",
+     "text": "Fălci oblice la 45° pentru prelucrarea colțurilor."
+    },
+    {
+     "label": "Excelent",
+     "text": "Lățime mare de lucru (180 mm) și adâncime de inserție (175 mm)."
+    },
+    {
+     "label": "Delicat cu materialul",
+     "text": "Tablă nu este deteriorată de fălci la îndoire."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățimea fălcilor / tăierii",
+     "value": "180mm"
+    },
+    {
+     "label": "Adâncime de inserție",
+     "value": "175mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "3100g"
+    }
+   ],
+   "weightG": 3100,
+   "sizeMm": 180,
+   "imageSheet": "products/freund/13-fisa.webp"
+  },
+  {
+   "id": "fier-de-cusut-cu-prisma-25-x-25-mm-01150000",
+   "sku": "01150000",
+   "name": "Fier de cusut cu prismă 25 x 25 mm",
+   "familyName": "Fier de cusut cu prismă 25 x 25 MM",
+   "brand": "FREUND",
+   "category": "trasare",
+   "family": "fier-de-cusut-cu-prisma-25-x-25-mm",
+   "catalogPage": 14,
+   "catalogNumber": 12,
+   "version": "Fier de cusut cu prismă, 25 x 25 mm",
+   "image": "products/freund/14.webp",
+   "imageLarge": "products/freund/14-lg.webp",
+   "priceGross": 641,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 16,
+   "applications": [
+    {
+     "label": "Tradițional",
+     "text": "Pentru prelucrarea foilor în tehnica îmbinărilor în picioare."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "De înaltă calitate",
+     "text": "Realizat din oțel scule, forjat."
+    },
+    {
+     "label": "Îngust",
+     "text": "Lățime de lucru de 140 mm - lamă scurtă."
+    },
+    {
+     "label": "Drept",
+     "text": "Prismă de 25 x 25 mm."
+    },
+    {
+     "label": "Perforat",
+     "text": "Diametru 5 mm."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "140mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "2500g"
+    }
+   ],
+   "weightG": 2500,
+   "sizeMm": 140,
+   "imageSheet": "products/freund/14-fisa.webp"
+  },
+  {
+   "id": "foarfece-de-tinichigiu-pelikan-taiere-dreapta-350-mm-01230350",
+   "sku": "01230350",
+   "name": "Foarfece de tinichigiu / Pelikan, tăiere dreapta, 350 mm",
+   "familyName": "Foarfece de tinichigiu/pelikan, tăiere dreapta, 350 MM",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-de-tinichigiu-pelikan-taiere-dreapta-350-mm",
+   "catalogPage": 15,
+   "catalogNumber": 13,
+   "version": "Foarfece de tinichigiu/Pelikan, tăiere dreapta, HRC 56",
+   "image": "products/freund/15.webp",
+   "imageLarge": "products/freund/15-lg.webp",
+   "priceGross": 227,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 26,
+   "applications": [
+    {
+     "label": "Tăiere rapidă",
+     "text": "Taie foile drept."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Continuu",
+     "text": "Permite tăierea rapidă pe lungimi mari fără a îndoi foaia, datorită formei capului „pelican\"."
+    },
+    {
+     "label": "Universal",
+     "text": "Pentru cupru, zinc și aluminiu."
+    },
+    {
+     "label": "Rapid și precis",
+     "text": "Geometrie de tăiere dovedită și șlefuire precisă."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "350m"
+    },
+    {
+     "label": "Greutate",
+     "value": "830g"
+    }
+   ],
+   "hand": "dreapta",
+   "weightG": 830,
+   "sizeMm": 350,
+   "imageSheet": "products/freund/15-fisa.webp"
+  },
+  {
+   "id": "foarfece-drepte-de-taiere-taiere-dreapta-260-mm-01250260",
+   "sku": "01250260",
+   "name": "Foarfece drepte de tăiere, tăiere dreapta, 260 mm",
+   "familyName": "Foarfece drepte de tăiere, tăiere dreapta, 260 MM",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-drepte-de-taiere-taiere-dreapta-260-mm",
+   "catalogPage": 16,
+   "catalogNumber": 14,
+   "version": "Foarfece drepte de tăiere, tăiere dreapta, HRC 56",
+   "image": "products/freund/16.webp",
+   "imageLarge": "products/freund/16-lg.webp",
+   "priceGross": 201,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 53,
+   "applications": [
+    {
+     "label": "Tăiere precisă",
+     "text": "Taie tabla drept și pe raze mai mari."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Curat și precis",
+     "text": "Geometria de tăiere testată de-a lungul deceniilor permite tăierea fără îndoire."
+    },
+    {
+     "label": "Comod și izolat",
+     "text": "Mânerul moale din PVC este complet anti-alunecare – mai confortabil decât metalul gol."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "260mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "500g"
+    }
+   ],
+   "hand": "dreapta",
+   "weightG": 500,
+   "sizeMm": 260,
+   "imageSheet": "products/freund/16-fisa.webp"
+  },
+  {
+   "id": "foarfece-pentru-taiere-de-forme-autentice-dreapta-240-mm-01280240",
+   "sku": "01280240",
+   "name": "Foarfece pentru tăiere de forme autentice, dreapta, 240 mm",
+   "familyName": "Foarfece pentru tăiere de forme autentice, dreapta, 240 MM",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-pentru-taiere-de-forme-autentice-dreapta-240-mm",
+   "catalogPage": 17,
+   "catalogNumber": 15,
+   "version": "Foarfece pentru tăiere de forme autentice, dreapta, verde",
+   "image": "products/freund/17.webp",
+   "imageLarge": "products/freund/17-lg.webp",
+   "priceGross": 180,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 28,
+   "tagline": "Pentru că uneori trebuie să faci o tăietură",
+   "description": "Și te rog să o faci rapid, precis și fără a-ți suprasolicita articulațiile. Acest lucru este garantat de foarfecile aviație. În plus, sunt foarte durabile și, datorită oțelului inoxidabil de înaltă calitate, extrem de rezistente la uzură. Designul scurt le face să se potrivească perfect în mână.",
+   "applications": [
+    {
+     "label": "Lamă exactă",
+     "text": "Taie foile pe raze mai mici."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Rapid și precis",
+     "text": "Geometrie de tăiere dovedită și șlefuire precisă."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Pârghia compusă și arcul de revenire economisesc energie la lucru."
+    },
+    {
+     "label": "Rezistente la uzură",
+     "text": "Potrivite și pentru inox (duritate HRC 60-62)."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Mâner ergonomic 2K, complet anti-alunecare."
+    },
+    {
+     "label": "Sigur",
+     "text": "Sistem de blocare menține foarfecile închise."
+    },
+    {
+     "label": "Practic",
+     "text": "Mecanismul de eliberare se activează automat: doar începe tăierea."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "240mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "385g"
+    }
+   ],
+   "hand": "dreapta",
+   "weightG": 385,
+   "sizeMm": 240,
+   "imageSheet": "products/freund/17-fisa.webp"
+  },
+  {
+   "id": "foarfece-pentru-taiere-de-forme-autentice-stanga-240-mm-01281240",
+   "sku": "01281240",
+   "name": "Foarfece pentru tăiere de forme autentice, stânga, 240 mm",
+   "familyName": "Foarfece pentru tăiere de forme autentice, stânga, 240 MM",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-pentru-taiere-de-forme-autentice-stanga-240-mm",
+   "catalogPage": 18,
+   "catalogNumber": 16,
+   "version": "Foarfece pentru tăiere de forme autentice, stânga, verde",
+   "image": "products/freund/18.webp",
+   "imageLarge": "products/freund/18-lg.webp",
+   "priceGross": 180,
+   "stockStatus": "stoc-limitat",
+   "stockQuantity": 4,
+   "tagline": "Pentru că uneori trebuie să faci o tăietură",
+   "description": "Și te rog să o faci rapid, precis și fără a-ți suprasolicita articulațiile. Acest lucru este garantat de foarfecile aviație. În plus, sunt foarte durabile și, datorită oțelului inoxidabil de înaltă calitate, extrem de rezistente la uzură. Designul scurt le face să se potrivească perfect în mână.",
+   "applications": [
+    {
+     "label": "Lamă exactă",
+     "text": "Taie foile pe raze mai mici."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Rapid și precis",
+     "text": "Geometrie de tăiere dovedită și șlefuire precisă."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Pârghia compusă și arcul de revenire economisesc energie la lucru."
+    },
+    {
+     "label": "Rezistente la uzură",
+     "text": "Potrivite și pentru inox (duritate HRC 60-62)."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Mâner ergonomic 2K, complet anti-alunecare."
+    },
+    {
+     "label": "Sigur",
+     "text": "Sistem de blocare menține foarfecile închise."
+    },
+    {
+     "label": "Practic",
+     "text": "Mecanismul de eliberare se activează automat: doar începe tăierea."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "240mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "385g"
+    }
+   ],
+   "hand": "stanga",
+   "weightG": 385,
+   "sizeMm": 240,
+   "imageSheet": "products/freund/18-fisa.webp"
+  },
+  {
+   "id": "foarfece-decalat-pentru-taiere-mini-dreapta-180-mm-01290180",
+   "sku": "01290180",
+   "name": "Foarfece decalat pentru tăiere „MINI”, dreapta, 180 mm",
+   "familyName": "Foarfece decalat pentru tăiere \"mini\"",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-decalat-pentru-taiere-mini",
+   "catalogPage": 19,
+   "catalogNumber": 17,
+   "version": "Foarfece decalat pentru tăiere \"MINI\", dreapta, HRC 61",
+   "image": "products/freund/19.webp",
+   "imageLarge": "products/freund/19-lg.webp",
+   "priceGross": 149,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 36,
+   "applications": [
+    {
+     "label": "Tăietor compact",
+     "text": "Foarfeci offset compacte, ideale pentru raze."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Compacte",
+     "text": "Foarfeci offset cu pârghie compusă, dimensiuni reduse."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Pârghia compusă și arcul de revenire economisesc efortul."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Mâner moale 2K."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "180mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "185g"
+    }
+   ],
+   "hand": "dreapta",
+   "weightG": 185,
+   "sizeMm": 180,
+   "imageSheet": "products/freund/19-fisa.webp"
+  },
+  {
+   "id": "foarfece-decalat-pentru-taiere-mini-stanga-180-mm-01290181",
+   "sku": "01290181",
+   "name": "Foarfece decalat pentru tăiere „MINI”, stânga, 180 mm",
+   "familyName": "Foarfece decalat pentru tăiere \"mini\"",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-decalat-pentru-taiere-mini",
+   "catalogPage": 19,
+   "catalogNumber": 17,
+   "version": "Foarfece decalat pentru tăiere \"MINI\", stânga, HRC 61",
+   "image": "products/freund/19.webp",
+   "imageLarge": "products/freund/19-lg.webp",
+   "priceGross": 149,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 42,
+   "applications": [
+    {
+     "label": "Tăietor compact",
+     "text": "Foarfeci offset compacte, ideale pentru raze."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Compacte",
+     "text": "Foarfeci offset cu pârghie compusă, dimensiuni reduse."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Pârghia compusă și arcul de revenire economisesc efortul."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Mâner moale 2K."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "180mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "185g"
+    }
+   ],
+   "hand": "stanga",
+   "weightG": 185,
+   "sizeMm": 180,
+   "imageSheet": "products/freund/19-fisa.webp"
+  },
+  {
+   "id": "foarfece-decalat-pentru-taiere-dreapta-240-x-80-mm-01290240",
+   "sku": "01290240",
+   "name": "Foarfece decalat pentru tăiere, dreapta, 240 x 80 mm",
+   "familyName": "Foarfece decalat pentru tăiere",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-decalat-pentru-taiere",
+   "catalogPage": 20,
+   "catalogNumber": 18,
+   "version": "Foarfece decalat pentru tăiere, dreapta, HRC 60-62, verde",
+   "image": "products/freund/20.webp",
+   "imageLarge": "products/freund/20-lg.webp",
+   "priceGross": 194,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 51,
+   "tagline": "Pentru că este mai ușor cu o pârghie compusă",
+   "description": "Astfel, în funcție de rază, foarfecile combinate pot realiza și curburi! Și întotdeauna rapid, precis și ușor pentru întreaga articulație, astfel încât poți tăia chiar și suprafețe mari din oțel inoxidabil. Tăie raze, dar și drept, fără a îndoi tabla.",
+   "applications": [
+    {
+     "label": "Tăietor precis",
+     "text": "Taie foi drepte și cu raze mai mari."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Ergonomic",
+     "text": "Pârghia compusă și arcul economisesc energie la utilizare."
+    },
+    {
+     "label": "Rezistent la uzură",
+     "text": "Potrivit pentru inox (duritate HRC 60-62)."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Mâner ergonomic 2K, complet anti-alunecare."
+    },
+    {
+     "label": "Rapid și precis",
+     "text": "Geometrie de tăiere dovedită și finisare precisă."
+    },
+    {
+     "label": "Practic",
+     "text": "Mecanismul de eliberare se activează automat: doar începe tăierea."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "240x80mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "415g"
+    }
+   ],
+   "hand": "dreapta",
+   "weightG": 415,
+   "sizeMm": 240,
+   "imageSheet": "products/freund/20-fisa.webp"
+  },
+  {
+   "id": "foarfece-decalat-pentru-taiere-stanga-240-x-80-mm-01291240",
+   "sku": "01291240",
+   "name": "Foarfece decalat pentru tăiere, stânga, 240 x 80 mm",
+   "familyName": "Foarfece decalat pentru tăiere",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-decalat-pentru-taiere",
+   "catalogPage": 20,
+   "catalogNumber": 18,
+   "version": "Foarfece decalat pentru tăiere, stânga, HRC 60-62, verde",
+   "image": "products/freund/20.webp",
+   "imageLarge": "products/freund/20-lg.webp",
+   "priceGross": 194,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 22,
+   "tagline": "Pentru că este mai ușor cu o pârghie compusă",
+   "description": "Astfel, în funcție de rază, foarfecile combinate pot realiza și curburi! Și întotdeauna rapid, precis și ușor pentru întreaga articulație, astfel încât poți tăia chiar și suprafețe mari din oțel inoxidabil. Tăie raze, dar și drept, fără a îndoi tabla.",
+   "applications": [
+    {
+     "label": "Tăietor precis",
+     "text": "Taie foi drepte și cu raze mai mari."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Ergonomic",
+     "text": "Pârghia compusă și arcul economisesc energie la utilizare."
+    },
+    {
+     "label": "Rezistent la uzură",
+     "text": "Potrivit pentru inox (duritate HRC 60-62)."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Mâner ergonomic 2K, complet anti-alunecare."
+    },
+    {
+     "label": "Rapid și precis",
+     "text": "Geometrie de tăiere dovedită și finisare precisă."
+    },
+    {
+     "label": "Practic",
+     "text": "Mecanismul de eliberare se activează automat: doar începe tăierea."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "240x80mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "415g"
+    }
+   ],
+   "hand": "stanga",
+   "weightG": 415,
+   "sizeMm": 240,
+   "imageSheet": "products/freund/20-fisa.webp"
+  },
+  {
+   "id": "presa-de-sertizat-tevi-cu-5-lame-01320002",
+   "sku": "01320002",
+   "name": "Presă de sertizat țevi, cu 5 lame",
+   "familyName": "Presă de sertizat țevi",
+   "brand": "FREUND",
+   "category": "clesti-blocare",
+   "family": "presa-de-sertizat-tevi",
+   "catalogPage": 21,
+   "catalogNumber": 19,
+   "version": "Presă de sertizat țevi, drept",
+   "image": "products/freund/21.webp",
+   "imageLarge": "products/freund/21-lg.webp",
+   "priceGross": 189,
+   "stockStatus": "indisponibil",
+   "applications": [
+    {
+     "label": "Reductor practic pentru țevi",
+     "text": "Clește cu adâncime de inserție de 5 și 30 mm."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Practic",
+     "text": "Reducerea diametrului țevii prin reducerea jgheabului superior."
+    },
+    {
+     "label": "Adânc",
+     "text": "Adâncime de inserție de 52 mm."
+    },
+    {
+     "label": "Eficient",
+     "text": "Lucrează cu 5 lame de reducere."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Adâncime de inserție",
+     "value": "30mm"
+    },
+    {
+     "label": "Dimensiuni",
+     "value": "245mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "495g"
+    }
+   ],
+   "weightG": 495,
+   "sizeMm": 245,
+   "imageSheet": "products/freund/21-fisa.webp"
+  },
+  {
+   "id": "clesti-de-blocare-0-50-mm-145-x-40-mm-01330100",
+   "sku": "01330100",
+   "name": "Clești de blocare 0–50 mm, 145 x 40 mm",
+   "familyName": "Clești de blocare",
+   "brand": "FREUND",
+   "category": "clesti-blocare",
+   "family": "clesti-de-blocare",
+   "catalogPage": 22,
+   "catalogNumber": 20,
+   "version": "Clești de blocare, domeniu de prindere 0 - 50 mm",
+   "image": "products/freund/22.webp",
+   "imageLarge": "products/freund/22-lg.webp",
+   "priceGross": 92,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 52,
+   "tagline": "Pentru că nu te oprești până nu finalizezi treaba.",
+   "description": "Rapid și ferm în același timp? Exact așa. Deschizi și închizi cleștele autoblocant. Fixezi toate materialele cu o lățime de prindere de până la 60 mm. Sigur și durabil. Datorită acoperirii cu pulbere, cleștele va rezista mult timp.",
+   "applications": [
+    {
+     "label": "Maestru al prinderii",
+     "text": "Blochează și fixează materialele de construcție fără efort."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Perfect",
+     "text": "Asigură o prindere excelentă pe suprafețe fine și rugoase."
+    },
+    {
+     "label": "Rezistent la uzură",
+     "text": "Oțel de scule de însaltă calitate, cu suprafețe de prindere îndoite inductiv."
+    },
+    {
+     "label": "Flexibil",
+     "text": "Reglare ușoară și comodă cu ajutorul șurubului zimtat."
+    },
+    {
+     "label": "Simplu",
+     "text": "Deschidere și închidere rapidă cu ajutorul sistemului de eliberare rapidă."
+    },
+    {
+     "label": "Durabil",
+     "text": "Datorită acoperirii cu pulbere arse."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "145x40mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "150g"
+    }
+   ],
+   "weightG": 150,
+   "sizeMm": 145,
+   "imageSheet": "products/freund/22-fisa.webp"
+  },
+  {
+   "id": "clesti-de-blocare-0-55-mm-175-x-55-mm-01330175",
+   "sku": "01330175",
+   "name": "Clești de blocare 0–55 mm, 175 x 55 mm",
+   "familyName": "Clești de blocare",
+   "brand": "FREUND",
+   "category": "clesti-blocare",
+   "family": "clesti-de-blocare",
+   "catalogPage": 22,
+   "catalogNumber": 20,
+   "version": "Clești de blocare, domeniu de prindere 0 - 55 mm",
+   "image": "products/freund/22.webp",
+   "imageLarge": "products/freund/22-lg.webp",
+   "priceGross": 102,
+   "stockStatus": "indisponibil",
+   "tagline": "Pentru că nu te oprești până nu finalizezi treaba.",
+   "description": "Rapid și ferm în același timp? Exact așa. Deschizi și închizi cleștele autoblocant. Fixezi toate materialele cu o lățime de prindere de până la 60 mm. Sigur și durabil. Datorită acoperirii cu pulbere, cleștele va rezista mult timp.",
+   "applications": [
+    {
+     "label": "Maestru al prinderii",
+     "text": "Blochează și fixează materialele de construcție fără efort."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Perfect",
+     "text": "Asigură o prindere excelentă pe suprafețe fine și rugoase."
+    },
+    {
+     "label": "Rezistent la uzură",
+     "text": "Oțel de scule de însaltă calitate, cu suprafețe de prindere îndoite inductiv."
+    },
+    {
+     "label": "Flexibil",
+     "text": "Reglare ușoară și comodă cu ajutorul șurubului zimtat."
+    },
+    {
+     "label": "Simplu",
+     "text": "Deschidere și închidere rapidă cu ajutorul sistemului de eliberare rapidă."
+    },
+    {
+     "label": "Durabil",
+     "text": "Datorită acoperirii cu pulbere arse."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "175x55mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "360g"
+    }
+   ],
+   "weightG": 360,
+   "sizeMm": 175,
+   "imageSheet": "products/freund/22-fisa.webp"
+  },
+  {
+   "id": "clesti-vise-grip-200-mm-01331000",
+   "sku": "01331000",
+   "name": "Clești vise-grip, 200 mm",
+   "familyName": "Clești vise-grip",
+   "brand": "FREUND",
+   "category": "clesti-blocare",
+   "family": "clesti-vise-grip",
+   "catalogPage": 23,
+   "catalogNumber": 21,
+   "version": "Clești Vise-grip, protejate cu PVC, lățime falcă 80 mm",
+   "image": "products/freund/23.webp",
+   "imageLarge": "products/freund/23-lg.webp",
+   "priceGross": 148,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 26,
+   "applications": [
+    {
+     "label": "Prindere sigură",
+     "text": "Blochează și fixează materialele de construcție fără efort."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Ideal",
+     "text": "Asigură o fixare perfectă pe suprafețe fine și rugoase."
+    },
+    {
+     "label": "Rezistent la uzură",
+     "text": "Oțel de scule de însaltă calitate."
+    },
+    {
+     "label": "Flexibil",
+     "text": "Reglare ușoară cu ajutorul șurubului zimtat."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "200mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "460g"
+    }
+   ],
+   "weightG": 460,
+   "sizeMm": 200,
+   "imageSheet": "products/freund/23-fisa.webp"
+  },
+  {
+   "id": "clesti-de-blocare-pentru-sudor-225-x-70-mm-01332000",
+   "sku": "01332000",
+   "name": "Clești de blocare pentru sudor, 225 x 70 mm",
+   "familyName": "Clești de blocare pentru sudor",
+   "brand": "FREUND",
+   "category": "clesti-blocare",
+   "family": "clesti-de-blocare-pentru-sudor",
+   "catalogPage": 24,
+   "catalogNumber": 22,
+   "version": "Clești de blocare pentru sudor, domeniu de prindere 30 mm",
+   "image": "products/freund/24.webp",
+   "imageLarge": "products/freund/24-lg.webp",
+   "priceGross": 145,
+   "stockStatus": "stoc-limitat",
+   "stockQuantity": 3,
+   "tagline": "Pentru că fermitatea poate fi și delicată",
+   "description": "Acoperirea din plastic a fălcilor de prindere protejează suprafața. Puteți fixa fără efort foile metalice pe marginea superioară a cusăturii – acest lucru păstrează zona de întindere. Cu acoperirea sa antiderapantă din PVC moale, acest instrument este potrivit pentru orice tip de cusătură. Și este durabil. Datorită stratului de pulbere ars în profunzime.",
+   "applications": [
+    {
+     "label": "Clește flexibil",
+     "text": "Prinde și fixează atât table profilate, cât și table netede."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Delicat",
+     "text": "Protejează suprafețele metalice cu straturi flexibile și detașabile din PVC."
+    },
+    {
+     "label": "De primă clasă",
+     "text": "Calitate palpabilă, datorită materialelor premium, în ciuda numeroaselor piese mobile."
+    },
+    {
+     "label": "Precis",
+     "text": "Fixează panourile exact la marginea superioară a cusăturii – datorită domeniului de prindere bine definit al vârfurilor fălcilor."
+    },
+    {
+     "label": "Flexibil",
+     "text": "Șurubul de strângere striat, cu locaș hexagonal, poate fi ajustat comod – pentru fixarea permanentă a foilor."
+    },
+    {
+     "label": "Simplu",
+     "text": "Se deschide și se închide într-o clipă datorită dispozitivului de eliberare rapidă a mânerului."
+    },
+    {
+     "label": "Universal",
+     "text": "Domeniul de prindere ajunge până la 30 mm."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "225x70mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "650g"
+    }
+   ],
+   "weightG": 650,
+   "sizeMm": 225,
+   "imageSheet": "products/freund/24-fisa.webp"
+  },
+  {
+   "id": "clesti-de-blocare-cu-varf-lung-01334000",
+   "sku": "01334000",
+   "name": "Clești de blocare cu vârf lung",
+   "familyName": "Clești de blocare cu vârf lung",
+   "brand": "FREUND",
+   "category": "clesti-blocare",
+   "family": "clesti-de-blocare-cu-varf-lung",
+   "catalogPage": 25,
+   "catalogNumber": 23,
+   "version": "Clești de blocare cu vârf lung",
+   "image": "products/freund/25.webp",
+   "imageLarge": "products/freund/25-lg.webp",
+   "priceGross": 104,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 19,
+   "applications": [
+    {
+     "label": "Măestru al prinderii înguste",
+     "text": "Blochează și fixează materialele de construcție fără efort."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Îngust",
+     "text": "Potrivit în mod special pentru zonele înguste și conice."
+    },
+    {
+     "label": "Rezistent la uzură",
+     "text": "Oțel de calitate superioară, cu suprafețe de prindere întărite inductiv."
+    },
+    {
+     "label": "Flexibil",
+     "text": "Șurubul cu prindere striată și soclu hexagonal poate fi ajustat ușor și confortabil."
+    },
+    {
+     "label": "Confortabil",
+     "text": "Cu tăietor de sârmă."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "165mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "100g"
+    }
+   ],
+   "weightG": 100,
+   "sizeMm": 165,
+   "imageSheet": "products/freund/25-fisa.webp"
+  },
+  {
+   "id": "ciocan-cu-lovitura-amortizata-fata-moale-32-mm-01670032",
+   "sku": "01670032",
+   "name": "Ciocan cu lovitură amortizată, față moale, 32 mm",
+   "familyName": "Ciocan cu lovitură amortizată, față moale, 32 MM",
+   "brand": "FREUND",
+   "category": "ciocane",
+   "family": "ciocan-cu-lovitura-amortizata-fata-moale-32-mm",
+   "catalogPage": 26,
+   "catalogNumber": 24,
+   "version": "Ciocan cu lovitură amortizată, Ø 32 mm",
+   "image": "products/freund/26.webp",
+   "imageLarge": "products/freund/26-lg.webp",
+   "priceGross": 170,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 54,
+   "applications": [
+    {
+     "label": "Bătător delicat",
+     "text": "Pentru lucrări precise fără recul."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "La țintă",
+     "text": "Reculul este prevenit prin umplerea capului ciocanului."
+    },
+    {
+     "label": "Calitate înaltă",
+     "text": "Mânerul și capul sunt permanent conectate."
+    },
+    {
+     "label": "Durabil",
+     "text": "Prin utilizarea lemnului de hickory."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "350mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "600g"
+    }
+   ],
+   "weightG": 600,
+   "sizeMm": 350,
+   "imageSheet": "products/freund/26-fisa.webp"
+  },
+  {
+   "id": "ciocan-de-tinichigiu-pvc-01674000",
+   "sku": "01674000",
+   "name": "Ciocan de tinichigiu, PVC",
+   "familyName": "Ciocan de tinichigiu, PVC",
+   "brand": "FREUND",
+   "category": "ciocane",
+   "family": "ciocan-de-tinichigiu-pvc",
+   "catalogPage": 27,
+   "catalogNumber": 25,
+   "version": "Ciocan de tinichigiu, PVC, unghiular cu cap ascuțit",
+   "image": "products/freund/27.webp",
+   "imageLarge": "products/freund/27-lg.webp",
+   "priceGross": 159,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 21,
+   "applications": [
+    {
+     "label": "Performanță solidă",
+     "text": "Oferă metalului subțire o formă delicată!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Flexibil",
+     "text": "O suprafață de lucru largă (40 x 85 mm) și una îngustă (10 x 85 mm) cu o lungime a capului de 150 mm."
+    },
+    {
+     "label": "Robust și rezistent la uzură",
+     "text": "Cap din plastic de înaltă calitate cu margini rotunjite, frezat dintr-un singur bloc."
+    },
+    {
+     "label": "Durabil și stabil",
+     "text": "Mâner din frasin, opțional disponibil și cu mâner din hickory."
+    },
+    {
+     "label": "Sigur",
+     "text": "Siguranța capului și mânerului cu șurub din oțel inoxidabil."
+    },
+    {
+     "label": "Ergonomic",
+     "text": "Echilibru bun între cap și mâner pentru o muncă fără oboseală."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "385x150mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "510g"
+    }
+   ],
+   "weightG": 510,
+   "sizeMm": 385,
+   "imageSheet": "products/freund/27-fisa.webp"
+  },
+  {
+   "id": "ciocan-pentru-embosare-si-netezire-coltar-145-x-35-mm-01678145",
+   "sku": "01678145",
+   "name": "Ciocan pentru embosare și netezire, colțar, 145 x 35 mm",
+   "familyName": "Ciocan pentru embosare și netezire, colțar",
+   "brand": "FREUND",
+   "category": "ciocane",
+   "family": "ciocan-pentru-embosare-si-netezire-coltar",
+   "catalogPage": 28,
+   "catalogNumber": 26,
+   "version": "Ciocan pentru embosare și netezire, colțar, mic",
+   "image": "products/freund/28.webp",
+   "imageLarge": "products/freund/28-lg.webp",
+   "priceGross": 158,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 51,
+   "featured": true,
+   "applications": [
+    {
+     "label": "Performanță stabilă",
+     "text": "Modelează tabla delicat și uniform."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Robust și rezistent la uzură",
+     "text": "Cap din plastic de înaltă calitate, cu margini rotunjite, frezat integral dintr-un singur bloc."
+    },
+    {
+     "label": "Durabil și stabil",
+     "text": "Mâner din lemn de frasin, disponibil și cu mâner din lemn de hickory."
+    },
+    {
+     "label": "Siguranță sporită",
+     "text": "Dotat cu pană inelară și sistem de fixare a mânerului."
+    },
+    {
+     "label": "Construcție de încredere",
+     "text": "Șurub din inox în capul ciocanului."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "145x35mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "550g"
+    }
+   ],
+   "weightG": 550,
+   "sizeMm": 145,
+   "imageSheet": "products/freund/28-fisa.webp"
+  },
+  {
+   "id": "ciocan-pentru-embosare-si-netezire-coltar-155-x-35-mm-01678155",
+   "sku": "01678155",
+   "name": "Ciocan pentru embosare și netezire, colțar, 155 x 35 mm",
+   "familyName": "Ciocan pentru embosare și netezire, colțar",
+   "brand": "FREUND",
+   "category": "ciocane",
+   "family": "ciocan-pentru-embosare-si-netezire-coltar",
+   "catalogPage": 28,
+   "catalogNumber": 26,
+   "version": "Ciocan pentru embosare și netezire, colțar, mare",
+   "image": "products/freund/28.webp",
+   "imageLarge": "products/freund/28-lg.webp",
+   "priceGross": 156,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 28,
+   "applications": [
+    {
+     "label": "Performanță stabilă",
+     "text": "Modelează tabla delicat și uniform."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Robust și rezistent la uzură",
+     "text": "Cap din plastic de înaltă calitate, cu margini rotunjite, frezat integral dintr-un singur bloc."
+    },
+    {
+     "label": "Durabil și stabil",
+     "text": "Mâner din lemn de frasin, disponibil și cu mâner din lemn de hickory."
+    },
+    {
+     "label": "Siguranță sporită",
+     "text": "Dotat cu pană inelară și sistem de fixare a mânerului."
+    },
+    {
+     "label": "Construcție de încredere",
+     "text": "Șurub din inox în capul ciocanului."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "155x35mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "600g"
+    }
+   ],
+   "weightG": 600,
+   "sizeMm": 155,
+   "imageSheet": "products/freund/28-fisa.webp"
+  },
+  {
+   "id": "placa-formare-pliu-pentru-streasina-250-mm-91070000",
+   "sku": "91070000",
+   "name": "Placă formare pliu pentru streașină, 250 mm",
+   "familyName": "Placă formare pliu pentru streașină, 250 MM",
+   "brand": "FREUND",
+   "category": "utilaje-faltuit",
+   "family": "placa-formare-pliu-pentru-streasina-250-mm",
+   "catalogPage": 29,
+   "catalogNumber": 27,
+   "version": "Eaves edger, 105 TK, acoperit cu pulbere",
+   "image": "products/freund/29.webp",
+   "imageLarge": "products/freund/29-lg.webp",
+   "priceGross": 1268,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 13,
+   "applications": [
+    {
+     "label": "Modelare precisă",
+     "text": "Conceput pentru plierea tablei la streașină sau lucarne, posibil până la peste 90°."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Precizie măsurabilă",
+     "text": "Lățime de lucru de 250 mm pentru o execuție uniformă."
+    },
+    {
+     "label": "Durabilitate ridicată",
+     "text": "Acoperire de înaltă calitate cu pulbere pentru protecție suplimentară."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "250mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "1700g"
+    }
+   ],
+   "weightG": 1700,
+   "sizeMm": 250,
+   "imageSheet": "products/freund/29-fisa.webp"
+  },
+  {
+   "id": "utilaj-pentru-inchidere-pliu-streasinei-220-mm-91080000",
+   "sku": "91080000",
+   "name": "Utilaj pentru închidere pliu streașinei, 220 mm",
+   "familyName": "Utilaj pentru închidere pliu streașinei, 220 MM",
+   "brand": "FREUND",
+   "category": "utilaje-faltuit",
+   "family": "utilaj-pentru-inchidere-pliu-streasinei-220-mm",
+   "catalogPage": 30,
+   "catalogNumber": 28,
+   "version": "Eaves closer, 106 TSCH, acoperit cu pulbere",
+   "image": "products/freund/30.webp",
+   "imageLarge": "products/freund/30-lg.webp",
+   "priceGross": 1257,
+   "stockStatus": "stoc-limitat",
+   "stockQuantity": 1,
+   "applications": [
+    {
+     "label": "Închidere eficientă",
+     "text": "Conceput pentru închiderea pliului pre-îndoit la streașină sau lucarnă."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Precizie",
+     "text": "Lățime de lucru de 220 mm pentru o finisare uniformă."
+    },
+    {
+     "label": "Opțiuni variate",
+     "text": "Disponibil în două versiuni – oțel inoxidabil sau acoperire cu pulbere."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "220mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "2100g"
+    }
+   ],
+   "weightG": 2100,
+   "sizeMm": 220,
+   "imageSheet": "products/freund/30-fisa.webp"
+  },
+  {
+   "id": "aparat-faltuit-dublu-220-mm-91170000",
+   "sku": "91170000",
+   "name": "Aparat fălțuit dublu, 220 mm",
+   "familyName": "Aparat fălțuit dublu, 220 MM",
+   "brand": "FREUND",
+   "category": "utilaje-faltuit",
+   "family": "aparat-faltuit-dublu-220-mm",
+   "catalogPage": 31,
+   "catalogNumber": 29,
+   "version": "Aparat fălțuit dublu, 117 WDF, acoperit cu pulbere",
+   "image": "products/freund/31.webp",
+   "imageLarge": "products/freund/31-lg.webp",
+   "priceGross": 1350,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 48,
+   "applications": [
+    {
+     "label": "Închidere dublă",
+     "text": "Transformă o cusătură pătrată simplă într-o cusătură dublă verticală."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Precizie",
+     "text": "Lățime de lucru de 220 mm pentru rezultate uniforme."
+    },
+    {
+     "label": "Versatilitate",
+     "text": "Disponibil în două variante – din oțel inoxidabil sau acoperit cu strat de pulbere."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "220mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "2500g"
+    }
+   ],
+   "weightG": 2500,
+   "sizeMm": 220,
+   "imageSheet": "products/freund/31-fisa.webp"
+  },
+  {
+   "id": "aparat-pentru-pliere-cusaturi-duble-acoperit-cu-pvc-92170000",
+   "sku": "92170000",
+   "name": "Aparat pentru pliere cusături duble, acoperit cu PVC",
+   "familyName": "Aparat pentru pliere cusături duble, acoperit cu PVC",
+   "brand": "FREUND",
+   "category": "utilaje-faltuit",
+   "family": "aparat-pentru-pliere-cusaturi-duble-acoperit-cu-pvc",
+   "catalogPage": 32,
+   "catalogNumber": 30,
+   "version": "Aparat pentru pliere cusături duble, acoperit cu PVC",
+   "image": "products/freund/32.webp",
+   "imageLarge": "products/freund/32-lg.webp",
+   "priceGross": 1605,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 12,
+   "applications": [
+    {
+     "label": "Dispozitiv multifuncțional și comod",
+     "text": "Închide cusătura pătrată și creează cusătura dublă verticală!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Flexibilă",
+     "text": "Potrivită pentru îndoituri între 5 și 25 mm."
+    },
+    {
+     "label": "Puternică",
+     "text": "Mâner lung pentru o transmisie eficientă a forței."
+    },
+    {
+     "label": "Delicată",
+     "text": "Rolă superioară de îndoire în unghi pentru îndoituri de 100° și prevenirea zgârieturilor."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Lățime de lucru",
+     "value": "220mm"
+    },
+    {
+     "label": "Dimensiuni",
+     "value": "490x220mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "2400g"
+    }
+   ],
+   "weightG": 2400,
+   "sizeMm": 490,
+   "imageSheet": "products/freund/32-fisa.webp"
+  },
+  {
+   "id": "masina-de-cusut-si-taiat-seaming-pro-93000000",
+   "sku": "93000000",
+   "name": "Mașină de cusut și tăiat Seaming PRO®",
+   "familyName": "Mașină de cusut și tăiat Seaming pro®",
+   "brand": "FREUND",
+   "category": "utilaje-faltuit",
+   "family": "masina-de-cusut-si-taiat-seaming-pro",
+   "catalogPage": 33,
+   "catalogNumber": 31,
+   "version": "Mașină de cusut și tăiat Seaming Pro® New Generation",
+   "image": "products/freund/33.webp",
+   "imageLarge": "products/freund/33-lg.webp",
+   "priceGross": 14000,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 12,
+   "featured": true,
+   "applications": [
+    {
+     "label": "Dispozitiv multifuncțional",
+     "text": "Realizează cusături duble sau simple și taie cusătura veche – toate acestea cu un singur echipament compact."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Complet",
+     "text": "Un singur echipament pentru 3 funcții – cusătură dublă, cusătură simplă și tăierea cusăturii vechi. Creează cusături duble dintr-o singură trecere, cu o viteză de 8-12 metri pe minut."
+    },
+    {
+     "label": "Fără fir",
+     "text": "Compatibil cu șurubelnițe electrice standard, cu suporturi pentru acoperiș și fațadă. Greutatea dispozitivului fără șurubelniță este de doar 6,5 kg."
+    },
+    {
+     "label": "Practic",
+     "text": "Se poate fixa și detașa cu ușurință pe cusătură. Se adaptează rapid pentru diferite funcții. Elimină necesitatea utilizării unui dispozitiv de pliere preliminară. Roțile de ghidaj sunt ajustabile între 25 mm și 38 mm. Se potrivește între fațadă și schelă."
+    },
+    {
+     "label": "Universal",
+     "text": "Procesează cupru, zinc și aluminiu până la 0,7 mm, oțel zincat sau vopsit până la 0,6 mm și inox până la 0,5 mm. Rulmenții cu bile din roțile de ghidaj asigură o funcționare lină."
+    },
+    {
+     "label": "Protecție îmbunătățită",
+     "text": "Roțile din cauciuc de calitate protejează tabla acoperișului în timpul procesării. Șurubelnița se fixează fără unelte."
+    },
+    {
+     "label": "Rezistent",
+     "text": "Carcasa exterioară este rezistentă la șocuri, praf și apă (IP67). Rolele frontale stabilizează dispozitivul și mențin cusătura în poziție."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "300x200x140mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "6500g"
+    }
+   ],
+   "weightG": 6500,
+   "sizeMm": 300,
+   "imageSheet": "products/freund/33-fisa.webp"
+  },
+  {
+   "id": "clesti-pentru-cusaturi-indoiti-la-45-imbinare-suprapusa-120-mm-01161120",
+   "sku": "01161120",
+   "name": "Clești pentru cusături, îndoiți la 45°, îmbinare suprapusă, 120 mm",
+   "familyName": "Clești pentru cusături, îndoiți 45°, îmbinare suprapusă, 120 MM",
+   "brand": "FREUND",
+   "category": "clesti-faltuit",
+   "family": "clesti-pentru-cusaturi-indoiti-45-imbinare-suprapusa-120-mm",
+   "catalogPage": 34,
+   "catalogNumber": 32,
+   "version": "Cleşti pentru cusături, îndoiți 45°, îmbinare suprapusă.",
+   "image": "products/freund/34.webp",
+   "imageLarge": "products/freund/34-lg.webp",
+   "priceGross": 817,
+   "stockStatus": "stoc-limitat",
+   "stockQuantity": 1,
+   "featured": true,
+   "applications": [
+    {
+     "label": "Clește curbat",
+     "text": "Ideal pentru realizarea marginilor pe panouri metalice deja instalate!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Confortabil",
+     "text": "Îndoit la 45°, ceea ce oferă o ergonomie superioară."
+    },
+    {
+     "label": "Durabil",
+     "text": "Realizat din oțel forjat de înaltă calitate."
+    },
+    {
+     "label": "Versatil",
+     "text": "Disponibil în mai multe variante, cu lățime de lucru între 120 mm și 200 mm și adâncime de inserție între 80 mm și 130 mm."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Adâncime de inserție",
+     "value": "80mm"
+    },
+    {
+     "label": "Lățime de lucru",
+     "value": "120mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "2900g"
+    }
+   ],
+   "weightG": 2900,
+   "sizeMm": 120,
+   "imageSheet": "products/freund/34-fisa.webp"
+  },
+  {
+   "id": "foarfece-de-perforare-cu-lame-curbate-dreapta-pvc-verde-275-mm-s1224275",
+   "sku": "S1224275",
+   "name": "Foarfece de perforare cu lame curbate, dreapta, PVC verde, 275 mm",
+   "familyName": "Foarfece de perforare cu lame curbate dreapta, PVC verde",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-de-perforare-cu-lame-curbate-dreapta-pvc-verde",
+   "catalogPage": 35,
+   "catalogNumber": 33,
+   "version": "Foarfece de perforare cu lame curbate, dreapta, HRC 59, PVC verde",
+   "image": "products/freund/35.webp",
+   "imageLarge": "products/freund/35-lg.webp",
+   "priceGross": 433,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 11,
+   "featured": true,
+   "applications": [
+    {
+     "label": "Foarfecă ascuțită",
+     "text": "Taie foi metalice în linie dreaptă și în raze mai mari!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Detectabilă",
+     "text": "Foarfeca dreaptă este verde, iar cea stângă este roșie."
+    },
+    {
+     "label": "Rezistentă la uzură",
+     "text": "Potrivită pentru oțel inoxidabil (călită la HRC 59)."
+    },
+    {
+     "label": "Universală",
+     "text": "Pentru cupru, zinc și aluminiu, dar și pentru oțel inoxidabil."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "275mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "500g"
+    }
+   ],
+   "hand": "dreapta",
+   "weightG": 500,
+   "sizeMm": 275,
+   "imageSheet": "products/freund/35-fisa.webp"
+  },
+  {
+   "id": "foarfece-de-perforare-cu-lame-curbate-stanga-pvc-rosu-275-mm-s1225275",
+   "sku": "S1225275",
+   "name": "Foarfece de perforare cu lame curbate, stânga, PVC roșu, 275 mm",
+   "familyName": "Foarfece de perforare cu lame curbate stânga, PVC roșu",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-de-perforare-cu-lame-curbate-stanga-pvc-rosu",
+   "catalogPage": 36,
+   "catalogNumber": 34,
+   "version": "Foarfece de perforare cu lame curbate, stânga, HRC 59, PVC roșu",
+   "image": "products/freund/36.webp",
+   "imageLarge": "products/freund/36-lg.webp",
+   "priceGross": 433,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 52,
+   "applications": [
+    {
+     "label": "Foarfecă ascuțită",
+     "text": "Taie foi metalice în linie dreaptă și în raze mai mari!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Detectabilă",
+     "text": "Foarfeca dreaptă este verde, iar cea stângă este roșie."
+    },
+    {
+     "label": "Rezistentă la uzură",
+     "text": "Potrivită pentru oțel inoxidabil (călită la HRC 59)."
+    },
+    {
+     "label": "Universală",
+     "text": "Pentru cupru, zinc și aluminiu, dar și pentru oțel inoxidabil."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "275mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "500g"
+    }
+   ],
+   "hand": "stanga",
+   "weightG": 500,
+   "sizeMm": 275,
+   "imageSheet": "products/freund/36-fisa.webp"
+  },
+  {
+   "id": "foarfece-de-taiere-drepte-stanga-pvc-rosu-260-mm-s1251260",
+   "sku": "S1251260",
+   "name": "Foarfece de tăiere drepte, stânga, PVC roșu, 260 mm",
+   "familyName": "Foarfece de tăiere drepte stânga, PVC roșu",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-de-taiere-drepte-stanga-pvc-rosu",
+   "catalogPage": 37,
+   "catalogNumber": 35,
+   "version": "Foarfece de tăiere drepte stânga, HRC 56, PVC roșu",
+   "image": "products/freund/37.webp",
+   "imageLarge": "products/freund/37-lg.webp",
+   "priceGross": 193,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 8,
+   "applications": [
+    {
+     "label": "Foarfecă rapidă",
+     "text": "Taie foi metalice în linie dreaptă!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Tăiere continuă",
+     "text": "Permite tăierea rapidă pe lungime fără a îndoi foaia, datorită formei speciale a capului de tip pelican."
+    },
+    {
+     "label": "Universală",
+     "text": "Potrivită pentru cupru, zinc și aluminiu."
+    },
+    {
+     "label": "Rapidă și precisă",
+     "text": "Geometrie de tăiere testată și măcinare precisă."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "260mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "500g"
+    }
+   ],
+   "hand": "stanga",
+   "weightG": 500,
+   "sizeMm": 260,
+   "imageSheet": "products/freund/37-fisa.webp"
+  },
+  {
+   "id": "foarfece-de-taiere-drepte-dreapta-pvc-verde-280-mm-s1252280",
+   "sku": "S1252280",
+   "name": "Foarfece de tăiere drepte, dreapta, PVC verde, 280 mm",
+   "familyName": "Foarfece de tăiere drepte dreapta, PVC verde",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-de-taiere-drepte-dreapta-pvc-verde",
+   "catalogPage": 38,
+   "catalogNumber": 36,
+   "version": "Foarfece de tăiere drepte dreapta, HRC 59, PVC verde",
+   "image": "products/freund/38.webp",
+   "imageLarge": "products/freund/38-lg.webp",
+   "priceGross": 251,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 39,
+   "applications": [
+    {
+     "label": "Foarfecă ascuțită",
+     "text": "Taie foi metalice în linie dreaptă și în raze mai mari."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Ușor de identificat",
+     "text": "Foarfeca pentru tăiere dreapta este verde, iar cea pentru tăiere stânga este roșie."
+    },
+    {
+     "label": "Rezistentă la uzură",
+     "text": "Potrivită pentru oțel inoxidabil (durificată la HRC 59)."
+    },
+    {
+     "label": "Universală",
+     "text": "Poate fi utilizată pentru cupru, zinc și aluminiu, dar și pentru oțel inoxidabil."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "280mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "600g"
+    }
+   ],
+   "hand": "dreapta",
+   "weightG": 600,
+   "sizeMm": 280,
+   "imageSheet": "products/freund/38-fisa.webp"
+  },
+  {
+   "id": "foarfece-de-taiere-drepte-stanga-pvc-rosu-280-mm-s1253280",
+   "sku": "S1253280",
+   "name": "Foarfece de tăiere drepte, stânga, PVC roșu, 280 mm",
+   "familyName": "Foarfece de tăiere drepte stânga, PVC roșu",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-de-taiere-drepte-stanga-pvc-rosu",
+   "catalogPage": 39,
+   "catalogNumber": 37,
+   "version": "Foarfece de tăiere drepte stânga, HRC 59, PVC roșu",
+   "image": "products/freund/39.webp",
+   "imageLarge": "products/freund/39-lg.webp",
+   "priceGross": 251,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 23,
+   "applications": [
+    {
+     "label": "Foarfecă ascuțită",
+     "text": "Taie foi metalice în linie dreaptă și în raze mai mari."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Ușor de identificat",
+     "text": "Foarfeca pentru tăiere dreapta este verde, iar cea pentru tăiere stânga este roșie."
+    },
+    {
+     "label": "Rezistentă la uzură",
+     "text": "Potrivită pentru oțel inoxidabil (durificată la HRC 59)."
+    },
+    {
+     "label": "Universală",
+     "text": "Poate fi utilizată pentru cupru, zinc și aluminiu, dar și pentru oțel inoxidabil."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "280mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "585g"
+    }
+   ],
+   "hand": "stanga",
+   "weightG": 585,
+   "sizeMm": 280,
+   "imageSheet": "products/freund/39-fisa.webp"
+  },
+  {
+   "id": "foarfece-pentru-taiere-de-forme-autentice-stanga-pvc-rosu-240-mm-s1281240",
+   "sku": "S1281240",
+   "name": "Foarfece pentru tăiere de forme autentice, stânga, PVC roșu, 240 mm",
+   "familyName": "Foarfece pentru tăiere de forme autentice",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-pentru-taiere-de-forme-autentice",
+   "catalogPage": 40,
+   "catalogNumber": 38,
+   "version": "Foarfece pentru tăiere de forme autentice, stânga, HRC 60-62, roșu",
+   "image": "products/freund/40.webp",
+   "imageLarge": "products/freund/40-lg.webp",
+   "priceGross": 180,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 13,
+   "applications": [
+    {
+     "label": "Lamă precisă",
+     "text": "Taie foi metalice în raze mici!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Rapidă și precisă",
+     "text": "Geometrie de tăiere testată și șlefuire de înaltă precizie."
+    },
+    {
+     "label": "Ergonomică",
+     "text": "Mecanism cu pârghie compusă și arc de revenire pentru reducerea efortului."
+    },
+    {
+     "label": "Rezistentă la uzură",
+     "text": "Potrivită și pentru oțel inoxidabil (durificată la HRC 60-62)."
+    },
+    {
+     "label": "Confortabilă",
+     "text": "Mâner ergonomic 2K, complet anti-alunecare."
+    },
+    {
+     "label": "Sigură",
+     "text": "Sistem de blocare pentru menținerea foarfecii în poziție închisă."
+    },
+    {
+     "label": "Practică",
+     "text": "Mecanism de eliberare automată – pur și simplu începeți tăierea."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "240mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "385g"
+    }
+   ],
+   "hand": "stanga",
+   "weightG": 385,
+   "sizeMm": 240,
+   "imageSheet": "products/freund/40-fisa.webp"
+  },
+  {
+   "id": "foarfece-de-taiere-drepte-stanga-240-x-80-mm-s1291240",
+   "sku": "S1291240",
+   "name": "Foarfece de tăiere drepte, stânga, 240 x 80 mm",
+   "familyName": "Foarfece de tăiere drepte",
+   "brand": "FREUND",
+   "category": "foarfece",
+   "family": "foarfece-de-taiere-drepte",
+   "catalogPage": 41,
+   "catalogNumber": 39,
+   "version": "Foarfece de tăiere drepte stânga",
+   "image": "products/freund/41.webp",
+   "imageLarge": "products/freund/41-lg.webp",
+   "priceGross": 194,
+   "stockStatus": "stoc-limitat",
+   "stockQuantity": 1,
+   "applications": [
+    {
+     "label": "Foarfecă precisă",
+     "text": "Taie foi metalice în linie dreaptă și în raze mai mari!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Ergonomică",
+     "text": "Mecanism cu pârghie compusă și arc pentru reducerea efortului."
+    },
+    {
+     "label": "Rezistentă la uzură",
+     "text": "Potrivită și pentru oțel inoxidabil (durificată la HRC 60-62)."
+    },
+    {
+     "label": "Confortabilă",
+     "text": "Mâner ergonomic 2K, complet anti-alunecare."
+    },
+    {
+     "label": "Rapidă și precisă",
+     "text": "Geometrie de tăiere testată și șlefuire de înaltă precizie."
+    },
+    {
+     "label": "Practică",
+     "text": "Eliberarea automată după tăiere – pur și simplu apăsați și eliberați."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "240x80mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "415g"
+    }
+   ],
+   "hand": "stanga",
+   "weightG": 415,
+   "sizeMm": 240,
+   "imageSheet": "products/freund/41-fisa.webp"
+  },
+  {
+   "id": "indoitoare-standard-cu-maner-91711000",
+   "sku": "91711000",
+   "name": "Îndoitoare standard cu mâner",
+   "familyName": "Îndoitoare standard cu mâner",
+   "brand": "FREUND",
+   "category": "indoitoare",
+   "family": "indoitoare-standard-cu-maner",
+   "catalogPage": 42,
+   "catalogNumber": 40,
+   "version": "Îndoitoare standard cu mâner",
+   "image": "products/freund/42.webp",
+   "imageLarge": "products/freund/42-lg.webp",
+   "priceGross": 1981,
+   "stockStatus": "stoc-limitat",
+   "stockQuantity": 2,
+   "applications": [
+    {
+     "label": "Îndoitoare practică",
+     "text": "Dispozitiv compact pentru îndoituri între 5 și 200 mm!"
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Ușor de manevrat",
+     "text": "Mâner disponibil pentru fiecare lungime de extensie."
+    },
+    {
+     "label": "Rezistență la torsiune",
+     "text": "Bare de crom dur de 16 mm pentru îndoituri de până la 1,2 mm."
+    },
+    {
+     "label": "Fluiditate",
+     "text": "Bucșe glisante și material neted al barei."
+    },
+    {
+     "label": "Reglabilă",
+     "text": "Grosimea materialului între 0,3 și 1,2 mm."
+    },
+    {
+     "label": "Delicată",
+     "text": "Picioarele din cauciuc protejează tabla."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "280x113x120mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "1800g"
+    }
+   ],
+   "weightG": 1800,
+   "sizeMm": 280,
+   "imageSheet": "products/freund/42-fisa.webp"
+  },
+  {
+   "id": "indoitoare-premium-cu-maner-91721000",
+   "sku": "91721000",
+   "name": "Îndoitoare premium cu mâner",
+   "familyName": "Îndoitoare premium cu mâner",
+   "brand": "FREUND",
+   "category": "indoitoare",
+   "family": "indoitoare-premium-cu-maner",
+   "catalogPage": 43,
+   "catalogNumber": 41,
+   "version": "Îndoitoare premium cu mâner",
+   "image": "products/freund/43.webp",
+   "imageLarge": "products/freund/43-lg.webp",
+   "priceGross": 2723,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 8,
+   "featured": true,
+   "applications": [
+    {
+     "label": "Îndoitoare confortabilă",
+     "text": "Dotată cu 4 role de ghidare pentru utilizare facilă și îndoituri între 5 și 200 mm."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Calitate",
+     "text": "Rolă inferioară extinsă cu teșitură pentru un rezultat optim al îndoirii."
+    },
+    {
+     "label": "Ușor de manevrat",
+     "text": "Mâner disponibil pentru fiecare lungime de extensie."
+    },
+    {
+     "label": "Rezistență la torsiune",
+     "text": "Bare de crom dur de 16 mm pentru îndoituri de până la 1,2 mm."
+    },
+    {
+     "label": "Fluiditate",
+     "text": "Bucșe glisante și material neted al barei."
+    },
+    {
+     "label": "Reglabilă",
+     "text": "Grosimea materialului între 0,3 și 1,2 mm."
+    },
+    {
+     "label": "Delicată",
+     "text": "Picioarele din cauciuc protejează tabla."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "280x152x120mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "2100g"
+    }
+   ],
+   "weightG": 2100,
+   "sizeMm": 280,
+   "imageSheet": "products/freund/43-fisa.webp"
+  },
+  {
+   "id": "indoitoare-pentru-raze-91740000",
+   "sku": "91740000",
+   "name": "Îndoitoare pentru raze",
+   "familyName": "Îndoitoare pentru raze",
+   "brand": "FREUND",
+   "category": "indoitoare",
+   "family": "indoitoare-pentru-raze",
+   "catalogPage": 44,
+   "catalogNumber": 42,
+   "version": "Îndoitoare pentru raze",
+   "image": "products/freund/44.webp",
+   "imageLarge": "products/freund/44-lg.webp",
+   "priceGross": 2266,
+   "stockStatus": "in-stoc",
+   "stockQuantity": 6,
+   "applications": [
+    {
+     "label": "Îndoire extrem de îngustă",
+     "text": "Perfectă pentru raze."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Flexibilă",
+     "text": "Potrivită pentru îndoituri între 5 și 25 mm."
+    },
+    {
+     "label": "Puternică",
+     "text": "Mâner lung pentru o transmisie eficientă a forței."
+    },
+    {
+     "label": "Delicată",
+     "text": "Rolă superioară de îndoire în unghi pentru îndoituri de 100° și prevenirea zgârieturilor."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "210x65x105mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "800g"
+    }
+   ],
+   "weightG": 800,
+   "sizeMm": 210,
+   "imageSheet": "products/freund/44-fisa.webp"
+  },
+  {
+   "id": "indoitoare-pentru-discuri-91730000",
+   "sku": "91730000",
+   "name": "Îndoitoare pentru discuri",
+   "familyName": "Îndoitoare pentru discuri",
+   "brand": "FREUND",
+   "category": "indoitoare",
+   "family": "indoitoare-pentru-discuri",
+   "catalogPage": 45,
+   "catalogNumber": 43,
+   "version": "Îndoitoare pentru discuri",
+   "image": "products/freund/45.webp",
+   "imageLarge": "products/freund/45-lg.webp",
+   "priceGross": 2403,
+   "stockStatus": "stoc-limitat",
+   "stockQuantity": 3,
+   "applications": [
+    {
+     "label": "Îndoitoare pentru pliere",
+     "text": "Îndoaie o foaie de metal de la 90° la 180°."
+    }
+   ],
+   "benefits": [
+    {
+     "label": "Înaltă precizie",
+     "text": "Îndoaie foi cu grosimi între 5 și 25 mm."
+    },
+    {
+     "label": "Simplu",
+     "text": "Nu necesită ajustări."
+    },
+    {
+     "label": "Fluid",
+     "text": "Trei role de ghidare susțin procesul de îndoire."
+    }
+   ],
+   "specs": [
+    {
+     "label": "Dimensiuni",
+     "value": "150x105x115mm"
+    },
+    {
+     "label": "Greutate",
+     "value": "1000g"
+    }
+   ],
+   "weightG": 1000,
+   "sizeMm": 150,
+   "imageSheet": "products/freund/45-fisa.webp"
+  }
+ ]
+}
